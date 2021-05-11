@@ -11,7 +11,7 @@
   "dependencies": {
     "enquirer": "^2.3.2",
     "isomorphic-fetch": "^2.2.1",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.21",
     "open": "^7.0.0"
   }
 }
